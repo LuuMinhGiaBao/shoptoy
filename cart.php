@@ -113,7 +113,7 @@ if(isset($_SESSION['user_name'])){
                     ?>
                   </form>
                   <div class="pt-5">
-                    <h6 class="mb-0"><a href="home.php" class="text-body"><i
+                    <h6 class="mb-0"><a href="index.php" class="text-body"><i
                           class="fas fa-long-arrow-alt-left me-2"></i>Back to shop</a></h6>
                   </div>
                 </div>

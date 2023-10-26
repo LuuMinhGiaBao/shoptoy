@@ -29,10 +29,10 @@
 					</div>
 
 				</div> 
-        <a class="navbar-brand mt-2 mt-lg-0" href="home.php">
+        <a class="navbar-brand mt-2 mt-lg-0" href="index.php">
         <img
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhPkvN-bKBJ4e71FS9YmZjUzk7a3VOC5HEg&usqp=CAU"
-          href="home.php"
+          href="index.php"
           height="80"
           alt="MDB Logo"
           loading="lazy"
@@ -44,7 +44,7 @@
             <div class="collapse navbar-collapse" id="navsup">
                 <!--left-->
                 <div class="navbar-nav">
-                    <a href="home.php" class="nav-link ">HOME</a>             
+                    <a href="index.php" class="nav-link ">HOME</a>             
                     <a href="allproduct.php" class="nav-link ">PRODUCTS</a>
                     <div class="dropdown">
                 </div>

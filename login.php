@@ -26,7 +26,7 @@ if(isset($_POST['btnLogin'])){
           
               header("Location: homeadmin.php"); // Điều hướng đến trang admin
           } else {
-              header("Location: home.php"); // Điều hướng đến trang người dùng
+              header("Location: index.php"); // Điều hướng đến trang người dùng
           }
       } else {
           echo "Something wrong with your info <br>";
